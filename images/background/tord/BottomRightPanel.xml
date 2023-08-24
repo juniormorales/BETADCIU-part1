@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BottomRightPanel.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFPannelNight0000" x="0" y="0" width="520" height="512" pivotX="18.05" pivotY="48.6"/>
+	<SubTexture name="BFPannelNight0001" x="0" y="0" width="520" height="512"/>
+	<SubTexture name="BFPannelNight0002" x="525" y="0" width="520" height="512"/>
+	<SubTexture name="BFPannelNight0003" x="525" y="0" width="520" height="512"/>
+</TextureAtlas>

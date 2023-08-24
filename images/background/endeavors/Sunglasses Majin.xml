@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sunglasses Majin.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunglass dance0000" x="0" y="0" width="1822" height="2498" frameX="-10" frameY="-17" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0001" x="0" y="0" width="1822" height="2498" frameX="-10" frameY="-17" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0002" x="1822" y="0" width="1847" height="2512" frameX="0" frameY="0" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0003" x="1822" y="0" width="1847" height="2512" frameX="0" frameY="0" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0004" x="3669" y="0" width="1759" height="2462" frameX="-35" frameY="-12" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0005" x="3669" y="0" width="1759" height="2462" frameX="-35" frameY="-12" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0006" x="5428" y="0" width="1606" height="2370" frameX="-97" frameY="-57" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0007" x="5428" y="0" width="1606" height="2370" frameX="-97" frameY="-57" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0008" x="0" y="2512" width="1500" height="2303" frameX="-140" frameY="-90" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0009" x="0" y="2512" width="1500" height="2303" frameX="-140" frameY="-90" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0010" x="0" y="2512" width="1500" height="2303" frameX="-140" frameY="-90" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0011" x="0" y="2512" width="1500" height="2303" frameX="-140" frameY="-90" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0012" x="0" y="2512" width="1500" height="2303" frameX="-140" frameY="-90" frameWidth="1847" frameHeight="2515"/>
+	<SubTexture name="sunglass dance0013" x="0" y="2512" width="1500" height="2303" frameX="-140" frameY="-90" frameWidth="1847" frameHeight="2515"/>
+</TextureAtlas>

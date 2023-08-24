@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "invis idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "invis idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/invis",
+	"position": [
+		-510,
+		120
+	],
+	"healthicon": "cassie",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		105,
+		105
+	],
+	"camera_position": [
+		620,
+		-410
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

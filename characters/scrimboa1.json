@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "Anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Anim",
+			"indices": [
+				95
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Anim1",
+	"position": [
+		-550,
+		-30
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		204
+	],
+	"camera_position": [
+		180,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

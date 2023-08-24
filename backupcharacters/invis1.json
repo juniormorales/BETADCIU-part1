@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "invis idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "invis idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/invis",
+	"position": [
+		-590,
+		0
+	],
+	"healthicon": "torrent",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		100
+	],
+	"camera_position": [
+		620,
+		-520
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

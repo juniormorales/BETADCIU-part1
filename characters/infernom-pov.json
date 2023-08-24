@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "InfernoM POV idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-520
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "InfernoM POV down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-174,
+				-79
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "InfernoM POV left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				-195
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "InfernoM POV up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-126
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "InfernoM POV right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/InfernoM POV",
+	"position": [
+		-170,
+		500
+	],
+	"healthicon": "Inferno",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		1,
+		50
+	],
+	"camera_position": [
+		0,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

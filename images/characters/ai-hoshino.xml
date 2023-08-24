@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="ai-hoshino.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="AIDown0000" x="0" y="0" width="201" height="393" frameX="-3" frameY="0" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AIDown0001" x="0" y="0" width="201" height="393" frameX="-3" frameY="0" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AIDown0002" x="201" y="0" width="223" height="390" frameX="0" frameY="-3" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AIDown0003" x="201" y="0" width="223" height="390" frameX="0" frameY="-3" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AIDown0004" x="424" y="0" width="214" height="388" frameX="-6" frameY="-5" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AIDown0005" x="424" y="0" width="214" height="388" frameX="-6" frameY="-5" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AIDown0006" x="638" y="0" width="209" height="389" frameX="-6" frameY="-4" frameWidth="223" frameHeight="393"/>
+	<SubTexture name="AILeft0000" x="0" y="393" width="204" height="407" frameX="-6" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AILeft0001" x="0" y="393" width="204" height="407" frameX="-6" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AILeft0002" x="204" y="393" width="209" height="408" frameX="0" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AILeft0003" x="204" y="393" width="209" height="408" frameX="0" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AILeft0004" x="413" y="393" width="207" height="407" frameX="-3" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AILeft0005" x="413" y="393" width="207" height="407" frameX="-3" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AILeft0006" x="620" y="393" width="208" height="407" frameX="-3" frameY="0" frameWidth="211" frameHeight="408"/>
+	<SubTexture name="AINeutral0000" x="828" y="393" width="182" height="407" frameX="-7" frameY="0" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0001" x="828" y="393" width="182" height="407" frameX="-7" frameY="0" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0002" x="0" y="801" width="184" height="406" frameX="-5" frameY="-1" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0003" x="0" y="801" width="184" height="406" frameX="-5" frameY="-1" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0004" x="184" y="801" width="185" height="403" frameX="0" frameY="-4" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0005" x="184" y="801" width="185" height="403" frameX="0" frameY="-4" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0006" x="369" y="801" width="180" height="403" frameX="-2" frameY="-4" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0007" x="549" y="801" width="181" height="404" frameX="-4" frameY="-3" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0008" x="549" y="801" width="181" height="404" frameX="-4" frameY="-3" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AINeutral0009" x="730" y="801" width="182" height="405" frameX="-5" frameY="-2" frameWidth="189" frameHeight="407"/>
+	<SubTexture name="AIRight0000" x="0" y="1207" width="192" height="389" frameX="0" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIRight0001" x="0" y="1207" width="192" height="389" frameX="0" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIRight0002" x="192" y="1207" width="191" height="389" frameX="-1" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIRight0003" x="192" y="1207" width="191" height="389" frameX="-1" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIRight0004" x="383" y="1207" width="191" height="389" frameX="-1" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIRight0005" x="383" y="1207" width="191" height="389" frameX="-1" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIRight0006" x="574" y="1207" width="194" height="389" frameX="-1" frameY="0" frameWidth="195" frameHeight="389"/>
+	<SubTexture name="AIUp0000" x="768" y="1207" width="220" height="407" frameX="-1" frameY="-4" frameWidth="227" frameHeight="412"/>
+	<SubTexture name="AIUp0001" x="768" y="1207" width="220" height="407" frameX="-1" frameY="-4" frameWidth="227" frameHeight="412"/>
+	<SubTexture name="AIUp0002" x="0" y="1614" width="224" height="409" frameX="0" frameY="0" frameWidth="227" frameHeight="412"/>
+	<SubTexture name="AIUp0003" x="0" y="1614" width="224" height="409" frameX="0" frameY="0" frameWidth="227" frameHeight="412"/>
+	<SubTexture name="AIUp0004" x="224" y="1614" width="225" height="409" frameX="-2" frameY="-2" frameWidth="227" frameHeight="412"/>
+	<SubTexture name="AIUp0005" x="224" y="1614" width="225" height="409" frameX="-2" frameY="-2" frameWidth="227" frameHeight="412"/>
+	<SubTexture name="AIUp0006" x="449" y="1614" width="221" height="409" frameX="0" frameY="-3" frameWidth="227" frameHeight="412"/>
+</TextureAtlas>

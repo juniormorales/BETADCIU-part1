@@ -1,0 +1,5 @@
+Gold Scream Jumpscare
+
+Value 1: Gold / GoldAlt
+
+Value 2: duration in seconds

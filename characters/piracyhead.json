@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				199,
+				-20
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-40,
+				-25
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-44,
+				-32
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-37,
+				221
+			],
+			"indices": [],
+			"fps": 35,
+			"anim": "singUP",
+			"loop": true,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/piracyhead",
+	"position": [
+		-170,
+		0
+	],
+	"healthicon": "piracy-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		48,
+		75
+	],
+	"camera_position": [
+		-100,
+		140
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}

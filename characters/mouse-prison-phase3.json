@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-82,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FINAL MIKI IDLE"
+		},
+		{
+			"offsets": [
+				-92,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FINAL MIKI LEFT"
+		},
+		{
+			"offsets": [
+				-19,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FINAL MIKI DOWN"
+		},
+		{
+			"offsets": [
+				-52,
+				287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FINAL MIKI UP"
+		},
+		{
+			"offsets": [
+				45,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FINAL MIKI RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Prisoner-Mickey-Phase3",
+	"position": [
+		47,
+		228
+	],
+	"healthicon": "mickeyprison",
+	"flip_x": true,
+	"healthbar_colors": [
+		127,
+		130,
+		126
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 3.90000000000001,
+	"scale": 1.2
+}

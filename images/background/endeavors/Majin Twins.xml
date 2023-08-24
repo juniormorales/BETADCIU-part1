@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Majin Twins.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Twins dance0000" x="0" y="0" width="1724" height="2430" frameX="-98" frameY="-47" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0001" x="0" y="0" width="1724" height="2430" frameX="-98" frameY="-47" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0002" x="1724" y="0" width="1928" height="2552"/>
+	<SubTexture name="Twins dance0003" x="1724" y="0" width="1928" height="2552"/>
+	<SubTexture name="Twins dance0004" x="3652" y="0" width="1813" height="2496" frameX="-55" frameY="-8" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0005" x="3652" y="0" width="1813" height="2496" frameX="-55" frameY="-8" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0006" x="5465" y="0" width="1607" height="2371" frameX="-149" frameY="-45" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0007" x="5465" y="0" width="1607" height="2371" frameX="-149" frameY="-45" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0008" x="0" y="2552" width="1500" height="2303" frameX="-198" frameY="-64" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0009" x="0" y="2552" width="1500" height="2303" frameX="-198" frameY="-64" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0010" x="0" y="2552" width="1500" height="2303" frameX="-198" frameY="-64" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0011" x="0" y="2552" width="1500" height="2303" frameX="-198" frameY="-64" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0012" x="0" y="2552" width="1500" height="2303" frameX="-198" frameY="-64" frameWidth="1928" frameHeight="2552"/>
+	<SubTexture name="Twins dance0013" x="0" y="2552" width="1500" height="2303" frameX="-198" frameY="-64" frameWidth="1928" frameHeight="2552"/>
+</TextureAtlas>

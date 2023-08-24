@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-7
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "yoshi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-9
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "yoshi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				35
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "yoshi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-11
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "yoshi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "oogtar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "oogtar up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "oogtar right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "oogtar down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mirm_gootar_yo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ratgoo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		153,
+		51
+	],
+	"camera_position": [
+		-420,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

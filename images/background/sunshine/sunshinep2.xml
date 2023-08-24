@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunshinep2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="switch0000" x="0" y="0" width="1027" height="503" frameX="2" frameY="2" frameWidth="1023" frameHeight="499"/>
+	<SubTexture name="switch0001" x="0" y="503" width="1027" height="503" frameX="2" frameY="2" frameWidth="1023" frameHeight="499"/>
+	<SubTexture name="switch0002" x="0" y="1006" width="1027" height="503" frameX="2" frameY="2" frameWidth="1023" frameHeight="499"/>
+	<SubTexture name="switch0003" x="0" y="1509" width="1026" height="502" frameX="2" frameY="2" frameWidth="1022" frameHeight="498"/>
+	<SubTexture name="switch0004" x="1026" y="1509" width="1020" height="500" frameX="2" frameY="2" frameWidth="1016" frameHeight="496"/>
+	<SubTexture name="switch0005" x="1027" y="0" width="1027" height="503" frameX="2" frameY="2" frameWidth="1023" frameHeight="499"/>
+	<SubTexture name="switch0006" x="1027" y="503" width="1027" height="503" frameX="2" frameY="2" frameWidth="1023" frameHeight="499"/>
+	<SubTexture name="switch0007" x="1027" y="1006" width="1026" height="502" frameX="2" frameY="2" frameWidth="1022" frameHeight="498"/>
+</TextureAtlas>

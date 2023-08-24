@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Majin sign.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="0" y="0" width="1871" height="2525" frameX="-49" frameY="-30" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0001" x="0" y="0" width="1871" height="2525" frameX="-49" frameY="-30" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0002" x="1871" y="0" width="1949" height="2566"/>
+	<SubTexture name="dance0003" x="1871" y="0" width="1949" height="2566"/>
+	<SubTexture name="dance0004" x="3820" y="0" width="1828" height="2502" frameX="-76" frameY="-19" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0005" x="3820" y="0" width="1828" height="2502" frameX="-76" frameY="-19" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0006" x="5648" y="0" width="1654" height="2353" frameX="-232" frameY="-86" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0007" x="5648" y="0" width="1654" height="2353" frameX="-232" frameY="-86" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0008" x="0" y="2566" width="1563" height="2303" frameX="-280" frameY="-109" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0009" x="0" y="2566" width="1563" height="2303" frameX="-280" frameY="-109" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0010" x="0" y="2566" width="1563" height="2303" frameX="-280" frameY="-109" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0011" x="0" y="2566" width="1563" height="2303" frameX="-280" frameY="-109" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0012" x="0" y="2566" width="1563" height="2303" frameX="-280" frameY="-109" frameWidth="1949" frameHeight="2566"/>
+	<SubTexture name="dance0013" x="0" y="2566" width="1563" height="2303" frameX="-280" frameY="-109" frameWidth="1949" frameHeight="2566"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+function onCreate()
+	makeAnimatedLuaSprite('cassier', 'characters/CASSIE', 1775, -150)
+	addAnimationByPrefix('cassier', 'idle', 'IDLE', 24, true)
+	addAnimationByPrefix('cassier', 'left', 'LEFT', 24, true)
+	addAnimationByPrefix('cassier', 'down', 'DOWN', 24, true)
+	addAnimationByPrefix('cassier', 'up', 'IDLE', 24, true)
+	addAnimationByPrefix('cassier', 'right', 'RIGHT', 24, true)
+	scaleObject('cassier', 0.77, 0.77)
+	setScrollFactor('cassier', 0.2, 0.2)
+	
+	makeAnimatedLuaSprite('pixel', 'pixelthing', 500, -150) -- -1725 x
+	addAnimationByPrefix('pixel', 'idle', 'pixelthing', 24, true)
+	scaleObject('pixel', 2, 1.77)
+	setScrollFactor('pixel', 0.2, 0.2)
+end
+
+local anims = {'left', 'down', 'up', 'right'}
+function goodNoteHit(i, d, nt, s)
+	if curStep >= 1903 and curStep <= 1984 then
+		for i = 0,3 do
+		if d == i then
+			playAnim('cassier', anims[i+1], true)
+		end
+	end
+	end
+end

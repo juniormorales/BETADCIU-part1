@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tioda_Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-55
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tioda_Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				51
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tioda_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				14
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tioda_Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tioda_Neutral"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tioda",
+	"position": [
+		320,
+		0
+	],
+	"healthicon": "tioda",
+	"flip_x": true,
+	"healthbar_colors": [
+		155,
+		255,
+		46
+	],
+	"camera_position": [
+		-610,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

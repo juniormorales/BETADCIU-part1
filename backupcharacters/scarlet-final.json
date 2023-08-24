@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				92,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Final scarlet down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Final scarlet idle"
+		},
+		{
+			"offsets": [
+				-20,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Final scarlet left"
+		},
+		{
+			"offsets": [
+				49,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Final scarlet right"
+		},
+		{
+			"offsets": [
+				-82,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Final scarlet up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scarlet_Final",
+	"position": [
+		-740,
+		-200
+	],
+	"healthicon": "scarlet-final",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		146,
+		219
+	],
+	"camera_position": [
+		-150,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

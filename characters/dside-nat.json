@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "NatDIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 26,
+			"name": "NatDLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				-39
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "NatDRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 26,
+			"name": "NatDDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				112
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "NatDUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-62
+			],
+			"anim": "singLEFT-alt",
+			"fps": 26,
+			"name": "NatDLeftFire",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				17
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 26,
+			"name": "NatDRightFire",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				130
+			],
+			"anim": "singDOWN-alt",
+			"fps": 26,
+			"name": "NatDDownFire",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				70
+			],
+			"anim": "singUP-alt",
+			"fps": 26,
+			"name": "NatDUpFire",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NatD",
+	"position": [
+		150,
+		250
+	],
+	"healthicon": "dsidenat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		216
+	],
+	"camera_position": [
+		180,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

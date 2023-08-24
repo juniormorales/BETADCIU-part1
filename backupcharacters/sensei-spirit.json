@@ -1,0 +1,242 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-220,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SpiritIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				-223
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SpiritLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				-210
+			],
+			"anim": "singLEFT-F",
+			"fps": 24,
+			"name": "SpiritLeftALT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-217,
+				-291
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SpiritUp",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-240
+			],
+			"anim": "singUP-F",
+			"fps": 24,
+			"name": "SpiritUpALT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-216,
+				-283
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SpiritRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				-230
+			],
+			"anim": "singRIGHT-F",
+			"fps": 24,
+			"name": "SpiritRightALT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				-285
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SpiritDown",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				380,
+				-250
+			],
+			"anim": "singDOWN-F",
+			"fps": 24,
+			"name": "SpiritDownALT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SenseiSpiritAssets",
+	"position": [
+		-180,
+		-50
+	],
+	"healthicon": "sensei-spirit-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		52,
+		184
+	],
+	"camera_position": [
+		830,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

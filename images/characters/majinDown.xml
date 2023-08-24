@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="headdownenterprise.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downhead0000" x="10" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0001" x="10" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0002" x="362" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0003" x="362" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0004" x="714" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0005" x="714" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0006" x="1066" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0007" x="1066" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0008" x="1066" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0009" x="1066" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0010" x="1066" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0011" x="1418" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0012" x="1418" y="10" width="342" height="503"/>
+	<SubTexture name="downhead0013" x="10" y="523" width="342" height="503"/>
+</TextureAtlas>

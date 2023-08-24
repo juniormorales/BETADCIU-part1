@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sammy Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				368,
+				-115
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-222
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				198,
+				-58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Sammy Idle instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				655,
+				23
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SammyRemastered",
+	"position": [
+		120,
+		-50
+	],
+	"healthicon": "sammy",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		53,
+		21
+	],
+	"camera_position": [
+		-490,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
